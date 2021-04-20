@@ -2,6 +2,7 @@
   "name": "@digitalbranch/base64",
   "version": "1.0.0",
   "description": "base64 utilities for nodejs",
+  "repository": "https://github.com/vincentcorbee/Base64",
   "main": "index.js",
   "directories": {
     "lib": "lib",
