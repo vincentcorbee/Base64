@@ -1,0 +1,19 @@
+{
+  "name": "@digitalbranch/base64",
+  "version": "1.0.0",
+  "description": "base64 utilities for nodejs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64",
+    "base64Url"
+  ],
+  "author": "V.J.M. Corbee",
+  "license": "MIT"
+}
